@@ -19,8 +19,6 @@
 }
 </style>
 <body>
-  <img src="22.jpg" alt="html">
-  <img src="21.jpg" alt="html">
   <img src="1.jpg" alt="html">
   <img src="2.jpg" alt="html">
   <img src="3.jpg" alt="html">
